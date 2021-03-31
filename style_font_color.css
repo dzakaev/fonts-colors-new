@@ -1,0 +1,31 @@
+body {
+	background-color: #f7eded;
+	color: #575F7D;
+	font-size: 20px;
+}
+a:hover {
+	color:black;
+}
+.privet {
+font-family: 'Roboto', sans-serif;
+	font-size: 32px;
+    font-weight: 900;
+}
+
+.img {
+	width: 100px;
+}
+
+.text {
+	
+	
+}
+.link {
+	text-decoration: none;
+	color: #6B72E1;
+	font-family: 'Roboto', sans-serif;
+}
+.mySites {
+	color: #7ECE90;
+
+}
